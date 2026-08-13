@@ -1,0 +1,359 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Create React App GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-15T01:32:11Z",
+            "owner": "react",
+            "repo": "create-react-app",
+            "stars": 103320
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "User Guide",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-15T01:32:11Z",
+            "owner": "react",
+            "repo": "create-react-app",
+            "stars": 103320
+          }
+        }
+      ],
+      "title": "Create-React-App General Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CRA Universal CLI",
+          "description": "CLI for SSR Create React App, without eject",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-09-26T10:15:52Z",
+            "owner": "antonybudianto",
+            "repo": "cra-universal",
+            "stars": 422
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CRA Generate: Scaffold a React Component",
+          "description": "Scaffold a React component.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-10-13T11:03:26Z",
+            "owner": "rthor",
+            "repo": "cra-generate",
+            "stars": 81
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CRA + Progressive Web App goodness",
+          "description": "Progressive Web App tempalte.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2020-11-02T19:41:58Z",
+            "owner": "jeffposnick",
+            "repo": "create-react-pwa",
+            "stars": 1265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "An Almost Static Stack. CRA + react-snapshot",
+          "description": "Bridge the gap between static sites and single page apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-06T22:16:44Z",
+            "owner": "superhighfives",
+            "repo": "an-almost-static-stack",
+            "stars": 267
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CRA + Redux",
+          "description": "Create React App Template with Redux and Router",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-07-24T10:01:49Z",
+            "owner": "tuchk4",
+            "repo": "craft-redux",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "File API Input Layer",
+          "description": "File Upload Tempalte",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-01-30T02:53:57Z",
+            "owner": "stoyan",
+            "repo": "fail",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Craft Template - MobX + React Router",
+          "description": "CRA Template with Mobx and Router",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-02-17T19:35:21Z",
+            "owner": "timarney",
+            "repo": "cra-mobx-reactrouter",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "CRAFT Templates"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Create React App Buildpack",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2022-06-10T20:26:14Z",
+            "owner": "mars",
+            "repo": "create-react-app-buildpack",
+            "stars": 3236
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Creare React App - now.sh",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-05-11T03:35:33Z",
+            "owner": "xkawi",
+            "repo": "create-react-app-now",
+            "stars": 137
+          }
+        }
+      ],
+      "title": "Deployment"
+    },
+    {
+      "description": "This is not documented yet. More info at Maintaining a fork of react-scripts as an alternative to ejecting #682",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Typescript React Starter",
+          "description": "CRA scripts version maintained by Microsoft's team to start apps with Typescript.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2019-08-23T00:06:50Z",
+            "owner": "microsoft",
+            "repo": "TypeScript-React-Starter",
+            "stars": 11036
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Scripts (Isomorphic)",
+          "description": "Provides configuration for FLM's isomorphic React apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-27T12:14:44Z",
+            "owner": "firstlookmedia",
+            "repo": "react-scripts",
+            "stars": 216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Super Scripts",
+          "description": "Adds super powers to create-react-app and allows custom configs without ejecting.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-01-09T16:13:32Z",
+            "owner": "shrynx",
+            "repo": "react-super-scripts",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Scripts Web",
+          "description": "React-scripts built using create-react-scripts, supports workbox(PWA), vendorDll, babelrc and eslintrc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-01-06T09:26:44Z",
+            "owner": "raymondsze",
+            "repo": "create-react-scripts",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Create React App Sass",
+          "description": "Enhances create-react-app to include support for Sass.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-03-04T20:57:41Z",
+            "owner": "rickharrison",
+            "repo": "create-react-app-sass",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Scripts With SSR",
+          "description": "Adds server-side rendering to create-react-app projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-02-19T20:22:19Z",
+            "owner": "joernb",
+            "repo": "react-scripts-with-ssr",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "React Scripts Versions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "React App Rewired",
+          "description": "Configure the unconfigurable, override create-react-app webpack configs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T02:27:35Z",
+            "owner": "timarney",
+            "repo": "react-app-rewired",
+            "stars": 9842
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Create React Scripts",
+          "description": "Easily extend the react-scripts from create-react-app to your own version of react-scripts. Package for SSR, Less, Sass, Workbox(PWA), VendorDll are included.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-01-06T09:26:44Z",
+            "owner": "raymondsze",
+            "repo": "create-react-scripts",
+            "stars": 63
+          }
+        }
+      ],
+      "title": "Alternatives"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "FAQ"
+    },
+    {
+      "description": "These are environment variables. Use cross-env to set environment variables across platforms or .env config.\nIf you use config - just add variable:",
+      "items": [],
+      "title": "Advanced Configuration"
+    },
+    {
+      "description": "Original issue - Lazy load (chunking) feature? #925",
+      "items": [],
+      "title": "Lazy Loading"
+    },
+    {
+      "description": "What is the alternative for ?\nOfficial solution: create at directory - src/node_modules as official solution for absolute imports #1065\nAnother way - use env variable. It is a directory name to be resolved to the current directory as well as its ancestors, and searched for modules. It is resolve.modules for webpack. More details at node official documentation \"Loading from the global folders\".\nIf you use config - just add variable:",
+      "items": [],
+      "title": "How to Setup Root Dir for Require"
+    },
+    {
+      "description": "By default HMR works only for CSS modules. If you want to use for components add these lines to index.js:",
+      "items": [],
+      "title": "HMR (Hot Module Replacement)"
+    },
+    {
+      "description": "There is the issue - Customize build folder #1354. This is feature is very useful along with entry point customizing and I have left comment about this.\nBut according to this Pull Request Fix- react-scripts build doesn't allow for specified path #1362 we should not expect such customizations in near future.\nThere are some hacks how to change webpack config but note that it is officially unsupported and can break in any version.",
+      "items": [],
+      "title": "How to Change Webpack Entry Point and Output Dir?"
+    },
+    {
+      "description": "Example is here",
+      "items": [],
+      "title": "Watching Build Mode on Create React App"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "How to Change Webpack Config?"
+    },
+    {
+      "description": "Note: this is officially unsupported and can break in any version.\nAlso note that this is just webpack config extending, not . There is not beautiful console logs, comparison of the build size and other command features.\nSuch approach (workaround) also helps to resolve problems when need to build/pubish a single component. There is the related issue - How to publish components without ejecting #796. Just override webpack entry point and output.\nAlways remember that using not usual loaders (like yaml, markdown, dsv loaders etc.), additional plugins and features from drafts and proposals makes your application more complex, maybe with dead syntax features and it is become impossible to migrate from current webpack configuration.",
+      "items": [],
+      "title": "How to Add Custom Webpack Plugins?"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:00:25.261Z",
+    "original_repository": "tuchk4/awesome-create-react-app",
+    "original_repository_sha": "37d75c4e2c592e6119aa122c23e7fd8088a40465",
+    "enhanced_repository": "enhansome/enhansome-create-react-app",
+    "enhanced_repository_description": null,
+    "title": "Awesome Create React App with stars"
+  }
+}
