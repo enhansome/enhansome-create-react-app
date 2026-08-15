@@ -14,7 +14,7 @@
             "last_commit": "2025-02-15T01:32:11Z",
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103328
+            "stars": 103311
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2025-02-15T01:32:11Z",
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103328
+            "stars": 103311
           }
         }
       ],
@@ -349,7 +349,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T10:38:54.468Z",
+    "last_updated": "2026-08-15T09:57:02.567Z",
     "original_repository": "tuchk4/awesome-create-react-app",
     "original_repository_sha": "37d75c4e2c592e6119aa122c23e7fd8088a40465",
     "enhanced_repository": "enhansome/enhansome-create-react-app",
