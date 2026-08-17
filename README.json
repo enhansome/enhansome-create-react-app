@@ -14,7 +14,7 @@
             "last_commit": "2025-02-15T01:32:11Z",
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103312
+            "stars": 103295
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2025-02-15T01:32:11Z",
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103312
+            "stars": 103295
           }
         }
       ],
@@ -282,7 +282,7 @@
             "last_commit": "2026-08-11T02:27:35Z",
             "owner": "timarney",
             "repo": "react-app-rewired",
-            "stars": 9841
+            "stars": 9840
           }
         },
         {
@@ -349,7 +349,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T09:57:18.841Z",
+    "last_updated": "2026-08-17T10:14:45.707Z",
     "original_repository": "tuchk4/awesome-create-react-app",
     "original_repository_sha": "37d75c4e2c592e6119aa122c23e7fd8088a40465",
     "enhanced_repository": "enhansome/enhansome-create-react-app",
