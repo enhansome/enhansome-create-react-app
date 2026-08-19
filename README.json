@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63537249,
             "language": "JavaScript",
             "last_commit": "2025-02-15T01:32:11Z",
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103292
+            "stars": 103287
           }
         },
         {
@@ -24,18 +25,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63537249,
             "language": "JavaScript",
             "last_commit": "2025-02-15T01:32:11Z",
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103292
+            "stars": 103287
           }
         }
       ],
       "title": "Create-React-App General Resources"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -44,6 +46,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100356302,
             "language": "JavaScript",
             "last_commit": "2022-09-26T10:15:52Z",
             "owner": "antonybudianto",
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78372031,
             "language": "JavaScript",
             "last_commit": "2018-10-13T11:03:26Z",
             "owner": "rthor",
@@ -69,7 +73,7 @@
       "title": "Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -78,6 +82,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65428414,
             "language": "HTML",
             "last_commit": "2020-11-02T19:41:58Z",
             "owner": "jeffposnick",
@@ -92,6 +97,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80747485,
             "language": "JavaScript",
             "last_commit": "2022-12-06T22:16:44Z",
             "owner": "superhighfives",
@@ -106,6 +112,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80555571,
             "language": "JavaScript",
             "last_commit": "2017-07-24T10:01:49Z",
             "owner": "tuchk4",
@@ -120,6 +127,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77657480,
             "language": "JavaScript",
             "last_commit": "2017-01-30T02:53:57Z",
             "owner": "stoyan",
@@ -134,6 +142,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80847295,
             "language": "JavaScript",
             "last_commit": "2017-02-17T19:35:21Z",
             "owner": "timarney",
@@ -145,7 +154,7 @@
       "title": "CRAFT Templates"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -154,6 +163,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 64449645,
             "language": "Shell",
             "last_commit": "2022-06-10T20:26:14Z",
             "owner": "mars",
@@ -168,6 +178,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 64890821,
             "language": "JavaScript",
             "last_commit": "2021-05-11T03:35:33Z",
             "owner": "xkawi",
@@ -188,11 +199,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 90786246,
             "language": "TypeScript",
             "last_commit": "2019-08-23T00:06:50Z",
             "owner": "microsoft",
             "repo": "TypeScript-React-Starter",
-            "stars": 11034
+            "stars": 11033
           }
         },
         {
@@ -202,6 +214,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64705448,
             "language": "JavaScript",
             "last_commit": "2023-01-27T12:14:44Z",
             "owner": "firstlookmedia",
@@ -216,6 +229,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 75265068,
             "language": "JavaScript",
             "last_commit": "2018-01-09T16:13:32Z",
             "owner": "shrynx",
@@ -230,6 +244,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106159387,
             "language": "JavaScript",
             "last_commit": "2019-01-06T09:26:44Z",
             "owner": "raymondsze",
@@ -244,6 +259,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70562273,
             "language": null,
             "last_commit": "2017-03-04T20:57:41Z",
             "owner": "rickharrison",
@@ -258,6 +274,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 167555016,
             "language": "JavaScript",
             "last_commit": "2019-02-19T20:22:19Z",
             "owner": "joernb",
@@ -269,7 +286,7 @@
       "title": "React Scripts Versions"
     },
     {
-      "description": "",
+      "description": "Alternatives from Create React App README:\nNotable alternatives also include:",
       "items": [
         {
           "node_type": "item",
@@ -278,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65231883,
             "language": "JavaScript",
             "last_commit": "2026-08-11T02:27:35Z",
             "owner": "timarney",
@@ -292,64 +310,230 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106159387,
             "language": "JavaScript",
             "last_commit": "2019-01-06T09:26:44Z",
             "owner": "raymondsze",
             "repo": "create-react-scripts",
             "stars": 63
           }
+        },
+        {
+          "node_type": "item",
+          "title": "zeit/next.js",
+          "description": "Framework for server-rendered React apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 70107786,
+            "language": "JavaScript",
+            "last_commit": "2026-08-19T10:01:06Z",
+            "owner": "vercel",
+            "repo": "next.js",
+            "stars": 141859
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gatsbyjs/gatsby",
+          "description": "Transform plain text into dynamic blogs and websites using React.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 36040894,
+            "language": "JavaScript",
+            "last_commit": "2026-08-15T00:01:50Z",
+            "owner": "gatsbyjs",
+            "repo": "gatsby",
+            "stars": 55943
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "insin/nwb",
+          "description": "A toolkit for React, Preact & Inferno apps, React libraries and other npm modules for the web, with no configuration (until you need it).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 45947467,
+            "language": "JavaScript",
+            "last_commit": "2025-02-15T17:20:52Z",
+            "owner": "insin",
+            "repo": "nwb",
+            "stars": 5536
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NYTimes/kyt",
+          "description": "Drowning in Webpack configs? Try this build, test and development tool for advanced JavaScript apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 60372006,
+            "language": "JavaScript",
+            "last_commit": "2026-05-04T21:26:47Z",
+            "owner": "nytimes",
+            "repo": "kyt",
+            "stars": 1911
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mozilla/neo",
+          "description": "Create and build React web applications with zero initial configuration and minimal fuss.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 57921811,
+            "language": "JavaScript",
+            "last_commit": "2019-03-29T21:56:34Z",
+            "owner": "mozilla",
+            "repo": "neo",
+            "stars": 495
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "enclave",
+          "description": "A simpler way to compile React applications.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 53015094,
+            "language": "JavaScript",
+            "last_commit": "2019-01-20T17:50:57Z",
+            "owner": "eanplatter",
+            "repo": "enclave",
+            "stars": 750
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sagui",
+          "description": "Front-end tooling in a single dependency.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 15216146,
+            "language": "JavaScript",
+            "last_commit": "2019-09-24T20:35:55Z",
+            "owner": "saguijs",
+            "repo": "sagui",
+            "stars": 661
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "motion",
+          "description": "A simple CLI for running React projects.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 43036442,
+            "language": null,
+            "last_commit": "2017-05-23T22:09:23Z",
+            "owner": "steelbrain",
+            "repo": "motion",
+            "stars": 619
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-app",
+          "description": "CLI tools and templates for authoring React applications with a single dev dependency and no configurations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 58659933,
+            "language": "JavaScript",
+            "last_commit": "2022-12-09T15:32:36Z",
+            "owner": "kriasoft",
+            "repo": "react-app",
+            "stars": 612
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quik",
+          "description": "A quick way to prototype and build apps with React and Babel with zero-setup.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 48668276,
+            "language": "JavaScript",
+            "last_commit": "2018-09-08T10:21:27Z",
+            "owner": "satya164",
+            "repo": "quik",
+            "stars": 551
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "roc",
+          "description": "Modern JavaScript Development Ecosystem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 46357398,
+            "language": "JavaScript",
+            "last_commit": "2024-02-16T17:18:30Z",
+            "owner": "rocjs",
+            "repo": "roc",
+            "stars": 426
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dev-toolkit",
+          "description": "Development Toolkit for React Veterans.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 30014276,
+            "language": "JavaScript",
+            "last_commit": "2025-03-18T21:57:02Z",
+            "owner": "stoikerty",
+            "repo": "dev-toolkit",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tarec",
+          "description": "The Awesome React Cli.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 57948987,
+            "language": "JavaScript",
+            "last_commit": "2019-05-13T07:42:05Z",
+            "owner": "geowarin",
+            "repo": "tarec",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aik",
+          "description": "Frontend Playground.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 52630660,
+            "language": "JavaScript",
+            "last_commit": "2018-03-06T07:10:25Z",
+            "owner": "d4rkr00t",
+            "repo": "aik",
+            "stars": 43
+          }
         }
       ],
       "title": "Alternatives"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "FAQ"
-    },
-    {
-      "description": "These are environment variables. Use cross-env to set environment variables across platforms or .env config.\nIf you use config - just add variable:",
-      "items": [],
-      "title": "Advanced Configuration"
-    },
-    {
-      "description": "Original issue - Lazy load (chunking) feature? #925",
-      "items": [],
-      "title": "Lazy Loading"
-    },
-    {
-      "description": "What is the alternative for ?\nOfficial solution: create at directory - src/node_modules as official solution for absolute imports #1065\nAnother way - use env variable. It is a directory name to be resolved to the current directory as well as its ancestors, and searched for modules. It is resolve.modules for webpack. More details at node official documentation \"Loading from the global folders\".\nIf you use config - just add variable:",
-      "items": [],
-      "title": "How to Setup Root Dir for Require"
-    },
-    {
-      "description": "By default HMR works only for CSS modules. If you want to use for components add these lines to index.js:",
-      "items": [],
-      "title": "HMR (Hot Module Replacement)"
-    },
-    {
-      "description": "There is the issue - Customize build folder #1354. This is feature is very useful along with entry point customizing and I have left comment about this.\nBut according to this Pull Request Fix- react-scripts build doesn't allow for specified path #1362 we should not expect such customizations in near future.\nThere are some hacks how to change webpack config but note that it is officially unsupported and can break in any version.",
-      "items": [],
-      "title": "How to Change Webpack Entry Point and Output Dir?"
-    },
-    {
-      "description": "Example is here",
-      "items": [],
-      "title": "Watching Build Mode on Create React App"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "How to Change Webpack Config?"
-    },
-    {
-      "description": "Note: this is officially unsupported and can break in any version.\nAlso note that this is just webpack config extending, not . There is not beautiful console logs, comparison of the build size and other command features.\nSuch approach (workaround) also helps to resolve problems when need to build/pubish a single component. There is the related issue - How to publish components without ejecting #796. Just override webpack entry point and output.\nAlways remember that using not usual loaders (like yaml, markdown, dsv loaders etc.), additional plugins and features from drafts and proposals makes your application more complex, maybe with dead syntax features and it is become impossible to migrate from current webpack configuration.",
-      "items": [],
-      "title": "How to Add Custom Webpack Plugins?"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T10:02:59.335Z",
+    "last_updated": "2026-08-19T10:03:08.106Z",
     "original_repository": "tuchk4/awesome-create-react-app",
     "original_repository_sha": "37d75c4e2c592e6119aa122c23e7fd8088a40465",
     "enhanced_repository": "enhansome/enhansome-create-react-app",
