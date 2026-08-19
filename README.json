@@ -327,10 +327,10 @@
             "archived": false,
             "id": 70107786,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T10:01:06Z",
+            "last_commit": "2026-08-19T12:14:39Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141859
+            "stars": 141864
           }
         },
         {
@@ -342,7 +342,7 @@
             "archived": false,
             "id": 36040894,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T00:01:50Z",
+            "last_commit": "2026-08-19T11:32:21Z",
             "owner": "gatsbyjs",
             "repo": "gatsby",
             "stars": 55943
@@ -533,8 +533,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:03:08.106Z",
+    "last_updated": "2026-08-19T12:21:22.219Z",
     "original_repository": "tuchk4/awesome-create-react-app",
+    "original_repository_id": 79804720,
     "original_repository_sha": "37d75c4e2c592e6119aa122c23e7fd8088a40465",
     "enhanced_repository": "enhansome/enhansome-create-react-app",
     "enhanced_repository_description": null,
