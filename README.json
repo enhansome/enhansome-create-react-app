@@ -15,7 +15,7 @@
             "last_commit": "2025-02-15T01:32:11Z",
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103288
+            "stars": 103290
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-02-15T01:32:11Z",
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103288
+            "stars": 103290
           }
         }
       ],
@@ -327,10 +327,10 @@
             "archived": false,
             "id": 70107786,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T09:47:23Z",
+            "last_commit": "2026-08-23T08:59:26Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141886
+            "stars": 141889
           }
         },
         {
@@ -345,7 +345,7 @@
             "last_commit": "2026-08-21T19:12:38Z",
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55940
+            "stars": 55939
           }
         },
         {
@@ -533,7 +533,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T09:57:35.484Z",
+    "last_updated": "2026-08-23T09:57:53.606Z",
     "original_repository": "tuchk4/awesome-create-react-app",
     "original_repository_id": 79804720,
     "original_repository_sha": "37d75c4e2c592e6119aa122c23e7fd8088a40465",
