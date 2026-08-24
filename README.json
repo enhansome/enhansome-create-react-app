@@ -327,10 +327,10 @@
             "archived": false,
             "id": 70107786,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T10:14:27Z",
+            "last_commit": "2026-08-24T14:15:30Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141905
+            "stars": 141913
           }
         },
         {
@@ -345,7 +345,7 @@
             "last_commit": "2026-08-21T19:12:38Z",
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55939
+            "stars": 55941
           }
         },
         {
@@ -530,10 +530,53 @@
         }
       ],
       "title": "Alternatives"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Adding Custom Environment Variables",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63537249,
+                "language": "JavaScript",
+                "last_commit": "2025-02-15T01:32:11Z",
+                "owner": "react",
+                "repo": "create-react-app",
+                "stars": 103286
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Adding Development Environment Variables In",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63537249,
+                "language": "JavaScript",
+                "last_commit": "2025-02-15T01:32:11Z",
+                "owner": "react",
+                "repo": "create-react-app",
+                "stars": 103286
+              }
+            }
+          ],
+          "description": "Your project can consume variables declared in your environment as if they were declared locally in your JS files. By default you will have NODE_ENV defined for you, and any other environment variables starting with REACT_APP_. These environment variables will be defined for you on process.env. For example, having an environment variable named REACT_APP_SECRET_CODE will be exposed in your JS as process.env.REACT_APP_SECRET_CODE, in addition to process.env.NODE_ENV\nTo define permanent environment variables, create a file called .env in the root of your project",
+          "node_type": "group",
+          "title": "How to Use Env Config"
+        }
+      ],
+      "title": "FAQ"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:21:11.860Z",
+    "last_updated": "2026-08-24T14:16:36.516Z",
     "original_repository": "tuchk4/awesome-create-react-app",
     "original_repository_id": 79804720,
     "original_repository_sha": "37d75c4e2c592e6119aa122c23e7fd8088a40465",

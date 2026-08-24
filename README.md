@@ -117,8 +117,8 @@ This is not documented yet. More info at [Maintaining a fork of react-scripts as
 
 Alternatives from [Create React App README](https://github.com/facebookincubator/create-react-app#alternatives) ⭐ 103,286 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15:
 
-* [zeit/next.js](https://github.com/zeit/next.js) ⭐ 141,905 | 🐛 3,922 | 🌐 JavaScript | 📅 2026-08-24 - Framework for server-rendered React apps.
-* [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,939 | 🐛 423 | 🌐 JavaScript | 📅 2026-08-21 - Transform plain text into dynamic blogs and websites using React.
+* [zeit/next.js](https://github.com/zeit/next.js) ⭐ 141,913 | 🐛 3,923 | 🌐 JavaScript | 📅 2026-08-24 - Framework for server-rendered React apps.
+* [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,941 | 🐛 423 | 🌐 JavaScript | 📅 2026-08-21 - Transform plain text into dynamic blogs and websites using React.
 * [insin/nwb](https://github.com/insin/nwb) ⚠️ Archived - A toolkit for React, Preact & Inferno apps, React libraries and other npm modules for the web, with no configuration (until you need it).
 * [NYTimes/kyt](https://github.com/NYTimes/kyt) ⭐ 1,911 | 🐛 65 | 🌐 JavaScript | 📅 2026-05-04 - Drowning in Webpack configs? Try this build, test and development tool for advanced JavaScript apps.
 * [mozilla/neo](https://github.com/mozilla/neo) ⚠️ Archived - Create and build React web applications with zero initial configuration and minimal fuss.
@@ -149,7 +149,7 @@ Notable alternatives also include:
 
 ### How to Use Multiple Env Configs
 
-Right now it is possible installing [dotenv](https://github.com/motdotla/dotenv) ⭐ 20,520 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-04 and updating npm scripts:
+Right now it is possible installing [dotenv](https://github.com/motdotla/dotenv) ⭐ 20,521 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-04 and updating npm scripts:
 
 ```json
 "scripts": {
