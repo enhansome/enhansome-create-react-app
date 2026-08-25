@@ -327,10 +327,10 @@
             "archived": false,
             "id": 70107786,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T03:27:15Z",
+            "last_commit": "2026-08-25T10:03:47Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141925
+            "stars": 141921
           }
         },
         {
@@ -576,7 +576,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:07:23.428Z",
+    "last_updated": "2026-08-25T10:05:03.841Z",
     "original_repository": "tuchk4/awesome-create-react-app",
     "original_repository_id": 79804720,
     "original_repository_sha": "37d75c4e2c592e6119aa122c23e7fd8088a40465",
