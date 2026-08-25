@@ -15,7 +15,7 @@
             "last_commit": "2025-02-15T01:32:11Z",
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103286
+            "stars": 103281
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-02-15T01:32:11Z",
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103286
+            "stars": 103281
           }
         }
       ],
@@ -204,7 +204,7 @@
             "last_commit": "2019-08-23T00:06:50Z",
             "owner": "microsoft",
             "repo": "TypeScript-React-Starter",
-            "stars": 11032
+            "stars": 11030
           }
         },
         {
@@ -327,10 +327,10 @@
             "archived": false,
             "id": 70107786,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T14:15:30Z",
+            "last_commit": "2026-08-25T03:27:15Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141913
+            "stars": 141925
           }
         },
         {
@@ -345,7 +345,7 @@
             "last_commit": "2026-08-21T19:12:38Z",
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55941
+            "stars": 55943
           }
         },
         {
@@ -548,7 +548,7 @@
                 "last_commit": "2025-02-15T01:32:11Z",
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103286
+                "stars": 103281
               }
             },
             {
@@ -563,7 +563,7 @@
                 "last_commit": "2025-02-15T01:32:11Z",
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103286
+                "stars": 103281
               }
             }
           ],
@@ -576,7 +576,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:16:36.516Z",
+    "last_updated": "2026-08-25T06:07:23.428Z",
     "original_repository": "tuchk4/awesome-create-react-app",
     "original_repository_id": 79804720,
     "original_repository_sha": "37d75c4e2c592e6119aa122c23e7fd8088a40465",
