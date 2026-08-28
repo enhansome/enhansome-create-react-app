@@ -15,8 +15,9 @@
             "last_commit": "2025-02-15T01:32:11Z",
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103283
-          }
+            "stars": 103279
+          },
+          "first_seen": "2026-08-28T20:59:09.748Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2025-02-15T01:32:11Z",
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103283
-          }
+            "stars": 103279
+          },
+          "first_seen": "2026-08-28T20:59:09.748Z"
         }
       ],
       "title": "Create-React-App General Resources"
@@ -52,7 +54,8 @@
             "owner": "antonybudianto",
             "repo": "cra-universal",
             "stars": 422
-          }
+          },
+          "first_seen": "2026-08-28T20:59:09.748Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "rthor",
             "repo": "cra-generate",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T20:59:09.748Z"
         }
       ],
       "title": "Tools"
@@ -88,7 +92,8 @@
             "owner": "jeffposnick",
             "repo": "create-react-pwa",
             "stars": 1265
-          }
+          },
+          "first_seen": "2026-08-28T20:59:09.748Z"
         },
         {
           "node_type": "item",
@@ -103,7 +108,8 @@
             "owner": "superhighfives",
             "repo": "an-almost-static-stack",
             "stars": 267
-          }
+          },
+          "first_seen": "2026-08-28T20:59:09.748Z"
         },
         {
           "node_type": "item",
@@ -118,7 +124,8 @@
             "owner": "tuchk4",
             "repo": "craft-redux",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T20:59:09.748Z"
         },
         {
           "node_type": "item",
@@ -133,7 +140,8 @@
             "owner": "stoyan",
             "repo": "fail",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T20:59:09.748Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "timarney",
             "repo": "cra-mobx-reactrouter",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T20:59:09.748Z"
         }
       ],
       "title": "CRAFT Templates"
@@ -169,7 +178,8 @@
             "owner": "mars",
             "repo": "create-react-app-buildpack",
             "stars": 3236
-          }
+          },
+          "first_seen": "2026-08-28T20:59:09.748Z"
         },
         {
           "node_type": "item",
@@ -184,7 +194,8 @@
             "owner": "xkawi",
             "repo": "create-react-app-now",
             "stars": 137
-          }
+          },
+          "first_seen": "2026-08-28T20:59:09.748Z"
         }
       ],
       "title": "Deployment"
@@ -205,7 +216,8 @@
             "owner": "microsoft",
             "repo": "TypeScript-React-Starter",
             "stars": 11030
-          }
+          },
+          "first_seen": "2026-08-28T20:59:09.748Z"
         },
         {
           "node_type": "item",
@@ -220,7 +232,8 @@
             "owner": "firstlookmedia",
             "repo": "react-scripts",
             "stars": 216
-          }
+          },
+          "first_seen": "2026-08-28T20:59:09.748Z"
         },
         {
           "node_type": "item",
@@ -235,7 +248,8 @@
             "owner": "shrynx",
             "repo": "react-super-scripts",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T20:59:09.748Z"
         },
         {
           "node_type": "item",
@@ -250,7 +264,8 @@
             "owner": "raymondsze",
             "repo": "create-react-scripts",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T20:59:09.748Z"
         },
         {
           "node_type": "item",
@@ -265,7 +280,8 @@
             "owner": "rickharrison",
             "repo": "create-react-app-sass",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T20:59:09.748Z"
         },
         {
           "node_type": "item",
@@ -280,7 +296,8 @@
             "owner": "joernb",
             "repo": "react-scripts-with-ssr",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T20:59:09.748Z"
         }
       ],
       "title": "React Scripts Versions"
@@ -300,8 +317,9 @@
             "last_commit": "2026-08-11T02:27:35Z",
             "owner": "timarney",
             "repo": "react-app-rewired",
-            "stars": 9840
-          }
+            "stars": 9841
+          },
+          "first_seen": "2026-08-28T20:59:09.748Z"
         },
         {
           "node_type": "item",
@@ -316,7 +334,8 @@
             "owner": "raymondsze",
             "repo": "create-react-scripts",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T20:59:09.748Z"
         },
         {
           "node_type": "item",
@@ -327,11 +346,12 @@
             "archived": false,
             "id": 70107786,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T19:57:41Z",
+            "last_commit": "2026-08-28T20:50:22Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141962
-          }
+            "stars": 141974
+          },
+          "first_seen": "2026-08-28T20:59:09.748Z"
         },
         {
           "node_type": "item",
@@ -342,11 +362,12 @@
             "archived": false,
             "id": 36040894,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T16:59:39Z",
+            "last_commit": "2026-08-28T03:41:15Z",
             "owner": "gatsbyjs",
             "repo": "gatsby",
             "stars": 55941
-          }
+          },
+          "first_seen": "2026-08-28T20:59:09.748Z"
         },
         {
           "node_type": "item",
@@ -361,7 +382,8 @@
             "owner": "insin",
             "repo": "nwb",
             "stars": 5535
-          }
+          },
+          "first_seen": "2026-08-28T20:59:09.748Z"
         },
         {
           "node_type": "item",
@@ -376,7 +398,8 @@
             "owner": "nytimes",
             "repo": "kyt",
             "stars": 1911
-          }
+          },
+          "first_seen": "2026-08-28T20:59:09.748Z"
         },
         {
           "node_type": "item",
@@ -391,7 +414,8 @@
             "owner": "mozilla",
             "repo": "neo",
             "stars": 495
-          }
+          },
+          "first_seen": "2026-08-28T20:59:09.748Z"
         },
         {
           "node_type": "item",
@@ -406,7 +430,8 @@
             "owner": "eanplatter",
             "repo": "enclave",
             "stars": 750
-          }
+          },
+          "first_seen": "2026-08-28T20:59:09.748Z"
         },
         {
           "node_type": "item",
@@ -421,7 +446,8 @@
             "owner": "saguijs",
             "repo": "sagui",
             "stars": 661
-          }
+          },
+          "first_seen": "2026-08-28T20:59:09.748Z"
         },
         {
           "node_type": "item",
@@ -436,7 +462,8 @@
             "owner": "steelbrain",
             "repo": "motion",
             "stars": 619
-          }
+          },
+          "first_seen": "2026-08-28T20:59:09.748Z"
         },
         {
           "node_type": "item",
@@ -451,7 +478,8 @@
             "owner": "kriasoft",
             "repo": "react-app",
             "stars": 612
-          }
+          },
+          "first_seen": "2026-08-28T20:59:09.748Z"
         },
         {
           "node_type": "item",
@@ -466,7 +494,8 @@
             "owner": "satya164",
             "repo": "quik",
             "stars": 551
-          }
+          },
+          "first_seen": "2026-08-28T20:59:09.748Z"
         },
         {
           "node_type": "item",
@@ -481,7 +510,8 @@
             "owner": "rocjs",
             "repo": "roc",
             "stars": 426
-          }
+          },
+          "first_seen": "2026-08-28T20:59:09.748Z"
         },
         {
           "node_type": "item",
@@ -496,7 +526,8 @@
             "owner": "stoikerty",
             "repo": "dev-toolkit",
             "stars": 133
-          }
+          },
+          "first_seen": "2026-08-28T20:59:09.748Z"
         },
         {
           "node_type": "item",
@@ -511,7 +542,8 @@
             "owner": "geowarin",
             "repo": "tarec",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T20:59:09.748Z"
         },
         {
           "node_type": "item",
@@ -526,7 +558,8 @@
             "owner": "d4rkr00t",
             "repo": "aik",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T20:59:09.748Z"
         }
       ],
       "title": "Alternatives"
@@ -548,8 +581,9 @@
                 "last_commit": "2025-02-15T01:32:11Z",
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103283
-              }
+                "stars": 103279
+              },
+              "first_seen": "2026-08-28T20:59:09.748Z"
             },
             {
               "node_type": "item",
@@ -563,8 +597,9 @@
                 "last_commit": "2025-02-15T01:32:11Z",
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103283
-              }
+                "stars": 103279
+              },
+              "first_seen": "2026-08-28T20:59:09.748Z"
             }
           ],
           "description": "Your project can consume variables declared in your environment as if they were declared locally in your JS files. By default you will have NODE_ENV defined for you, and any other environment variables starting with REACT_APP_. These environment variables will be defined for you on process.env. For example, having an environment variable named REACT_APP_SECRET_CODE will be exposed in your JS as process.env.REACT_APP_SECRET_CODE, in addition to process.env.NODE_ENV\nTo define permanent environment variables, create a file called .env in the root of your project",
@@ -576,7 +611,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:59:35.749Z",
+    "last_updated": "2026-08-28T20:59:09.748Z",
     "original_repository_info": {
       "archived": false,
       "id": 79804720,
