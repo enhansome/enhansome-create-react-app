@@ -19,7 +19,7 @@
             "open_issues": 2409,
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103279,
+            "stars": 103280,
             "topics": [
               "build-tools",
               "react",
@@ -44,7 +44,7 @@
             "open_issues": 2409,
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103279,
+            "stars": 103280,
             "topics": [
               "build-tools",
               "react",
@@ -326,7 +326,7 @@
             "open_issues": 196,
             "owner": "microsoft",
             "repo": "TypeScript-React-Starter",
-            "stars": 11030,
+            "stars": 11029,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:09.748Z"
@@ -527,11 +527,11 @@
             "id": 70107786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T00:19:20Z",
-            "open_issues": 3638,
+            "last_commit": "2026-08-29T10:59:13Z",
+            "open_issues": 3635,
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141980,
+            "stars": 141995,
             "topics": [
               "blog",
               "browser",
@@ -563,11 +563,11 @@
             "id": 36040894,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-28T03:41:15Z",
+            "last_commit": "2026-08-29T09:36:02Z",
             "open_issues": 437,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55941,
+            "stars": 55943,
             "topics": [
               "blog",
               "compiler",
@@ -920,7 +920,7 @@
                 "open_issues": 2409,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103279,
+                "stars": 103280,
                 "topics": [
                   "build-tools",
                   "react",
@@ -945,7 +945,7 @@
                 "open_issues": 2409,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103279,
+                "stars": 103280,
                 "topics": [
                   "build-tools",
                   "react",
@@ -964,7 +964,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:35:39.400Z",
+    "last_updated": "2026-08-29T14:41:08.013Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Create React App articles / tutorials / videos and FAQ",
