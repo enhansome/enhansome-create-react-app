@@ -10,12 +10,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Set up a modern web app by running one command.",
+            "homepage": "https://create-react-app.dev/",
             "id": 63537249,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-02-15T01:32:11Z",
+            "open_issues": 2409,
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103279
+            "stars": 103279,
+            "topics": [
+              "build-tools",
+              "react",
+              "zero-configuration"
+            ]
           },
           "first_seen": "2026-08-28T20:59:09.748Z"
         },
@@ -26,12 +35,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Set up a modern web app by running one command.",
+            "homepage": "https://create-react-app.dev/",
             "id": 63537249,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-02-15T01:32:11Z",
+            "open_issues": 2409,
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103279
+            "stars": 103279,
+            "topics": [
+              "build-tools",
+              "react",
+              "zero-configuration"
+            ]
           },
           "first_seen": "2026-08-28T20:59:09.748Z"
         }
@@ -48,12 +66,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌏 Create React App companion for universal app. No eject, zero config, Streaming SSR with Suspense. React 18 ready",
+            "homepage": "https://codesandbox.io/s/cra-universal-demo-9wnwb7",
             "id": 100356302,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-09-26T10:15:52Z",
+            "open_issues": 12,
             "owner": "antonybudianto",
             "repo": "cra-universal",
-            "stars": 422
+            "stars": 422,
+            "topics": [
+              "cli",
+              "create-react-app",
+              "react",
+              "server-side-rendering",
+              "ssr",
+              "universal",
+              "zero-config"
+            ]
           },
           "first_seen": "2026-08-28T20:59:09.748Z"
         },
@@ -64,12 +95,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scaffold a React component.",
+            "homepage": null,
             "id": 78372031,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-10-13T11:03:26Z",
+            "open_issues": 7,
             "owner": "rthor",
             "repo": "cra-generate",
-            "stars": 81
+            "stars": 81,
+            "topics": [
+              "cli",
+              "create-react-app",
+              "react",
+              "scaffold"
+            ]
           },
           "first_seen": "2026-08-28T20:59:09.748Z"
         }
@@ -86,12 +127,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "https://github.com/facebookincubator/create-react-app + Progressive Web App goodness",
+            "homepage": null,
             "id": 65428414,
             "language": "HTML",
+            "license": null,
             "last_commit": "2020-11-02T19:41:58Z",
+            "open_issues": 6,
             "owner": "jeffposnick",
             "repo": "create-react-pwa",
-            "stars": 1265
+            "stars": 1265,
+            "topics": [
+              "create-react-app",
+              "offline",
+              "progressive-web-app",
+              "react",
+              "react-starter-kit",
+              "service-worker",
+              "sw-precache"
+            ]
           },
           "first_seen": "2026-08-28T20:59:09.748Z"
         },
@@ -102,12 +156,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An example of using create-react-app to bridge the gap between static sites and single page apps",
+            "homepage": "https://yadg.surge.sh",
             "id": 80747485,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-12-06T22:16:44Z",
+            "open_issues": 19,
             "owner": "superhighfives",
             "repo": "an-almost-static-stack",
-            "stars": 267
+            "stars": 267,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:09.748Z"
         },
@@ -118,12 +177,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CRA teamplate for CRAFT https://github.com/stoyan/craft",
+            "homepage": null,
             "id": 80555571,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-07-24T10:01:49Z",
+            "open_issues": 4,
             "owner": "tuchk4",
             "repo": "craft-redux",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "craft",
+              "create-react-app",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T20:59:09.748Z"
         },
@@ -134,12 +202,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "File API Input Layer",
+            "homepage": null,
             "id": 77657480,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-01-30T02:53:57Z",
+            "open_issues": 0,
             "owner": "stoyan",
             "repo": "fail",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "javascript",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T20:59:09.748Z"
         },
@@ -150,12 +226,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Craft Template - MobX + React Router",
+            "homepage": null,
             "id": 80847295,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-02-17T19:35:21Z",
+            "open_issues": 0,
             "owner": "timarney",
             "repo": "cra-mobx-reactrouter",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "create-react-app",
+              "mobx",
+              "reactjs"
+            ]
           },
           "first_seen": "2026-08-28T20:59:09.748Z"
         }
@@ -172,12 +257,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "⚛️ Heroku Buildpack for create-react-app: static hosting for React.js web apps",
+            "homepage": null,
             "id": 64449645,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2022-06-10T20:26:14Z",
+            "open_issues": 14,
             "owner": "mars",
             "repo": "create-react-app-buildpack",
-            "stars": 3236
+            "stars": 3236,
+            "topics": [
+              "buildpack",
+              "create-react-app",
+              "heroku",
+              "heroku-buildpack",
+              "react",
+              "spa"
+            ]
           },
           "first_seen": "2026-08-28T20:59:09.748Z"
         },
@@ -188,12 +285,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Hello, create-react-app, meet Zeit's awesome now.sh service.",
+            "homepage": "https://create-react-app.now.sh",
             "id": 64890821,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-05-11T03:35:33Z",
+            "open_issues": 8,
             "owner": "xkawi",
             "repo": "create-react-app-now",
-            "stars": 137
+            "stars": 137,
+            "topics": [
+              "create-react-app",
+              "now",
+              "react",
+              "zeit"
+            ]
           },
           "first_seen": "2026-08-28T20:59:09.748Z"
         }
@@ -210,12 +317,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A starter template for TypeScript and React with a detailed README describing how to use the two together.",
+            "homepage": null,
             "id": 90786246,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2019-08-23T00:06:50Z",
+            "open_issues": 196,
             "owner": "microsoft",
             "repo": "TypeScript-React-Starter",
-            "stars": 11030
+            "stars": 11030,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:09.748Z"
         },
@@ -226,12 +338,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚙ shared react app configs",
+            "homepage": null,
             "id": 64705448,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-27T12:14:44Z",
+            "open_issues": 10,
             "owner": "firstlookmedia",
             "repo": "react-scripts",
-            "stars": 216
+            "stars": 216,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:09.748Z"
         },
@@ -242,12 +359,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "adds super powers to create-react-app and allows custom configs without ejecting.",
+            "homepage": "https://react-super-scripts.netlify.com",
             "id": 75265068,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2018-01-09T16:13:32Z",
+            "open_issues": 7,
             "owner": "shrynx",
             "repo": "react-super-scripts",
-            "stars": 87
+            "stars": 87,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:09.748Z"
         },
@@ -258,12 +380,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easily extend the react-scripts to your own version of react-scripts",
+            "homepage": null,
             "id": 106159387,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-01-06T09:26:44Z",
+            "open_issues": 7,
             "owner": "raymondsze",
             "repo": "create-react-scripts",
-            "stars": 63
+            "stars": 63,
+            "topics": [
+              "babel",
+              "boilerplate",
+              "create-react-app",
+              "javascript",
+              "react",
+              "server-side-rendering",
+              "universal-react",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T20:59:09.748Z"
         },
@@ -274,12 +410,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Add sass support to create-react-app.",
+            "homepage": null,
             "id": 70562273,
             "language": null,
+            "license": "MIT",
             "last_commit": "2017-03-04T20:57:41Z",
+            "open_issues": 2,
             "owner": "rickharrison",
             "repo": "create-react-app-sass",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:09.748Z"
         },
@@ -290,12 +431,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adds server-side rendering to create-react-app projects",
+            "homepage": null,
             "id": 167555016,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-02-19T20:22:19Z",
+            "open_issues": 0,
             "owner": "joernb",
             "repo": "react-scripts-with-ssr",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "create-react-app",
+              "react-scripts",
+              "server-side-rendering",
+              "ssr",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T20:59:09.748Z"
         }
@@ -312,12 +464,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Override create-react-app webpack configs without ejecting",
+            "homepage": null,
             "id": 65231883,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-11T02:27:35Z",
+            "open_issues": 24,
             "owner": "timarney",
             "repo": "react-app-rewired",
-            "stars": 9841
+            "stars": 9841,
+            "topics": [
+              "config",
+              "create-react-app",
+              "eject",
+              "never",
+              "react",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T20:59:09.748Z"
         },
@@ -328,12 +492,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easily extend the react-scripts to your own version of react-scripts",
+            "homepage": null,
             "id": 106159387,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-01-06T09:26:44Z",
+            "open_issues": 7,
             "owner": "raymondsze",
             "repo": "create-react-scripts",
-            "stars": 63
+            "stars": 63,
+            "topics": [
+              "babel",
+              "boilerplate",
+              "create-react-app",
+              "javascript",
+              "react",
+              "server-side-rendering",
+              "universal-react",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T20:59:09.748Z"
         },
@@ -344,12 +522,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The React Framework",
+            "homepage": "https://nextjs.org",
             "id": 70107786,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T20:50:22Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T00:19:20Z",
+            "open_issues": 3638,
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141974
+            "stars": 141980,
+            "topics": [
+              "blog",
+              "browser",
+              "compiler",
+              "components",
+              "hybrid",
+              "nextjs",
+              "node",
+              "react",
+              "server-rendering",
+              "ssg",
+              "static",
+              "static-site-generator",
+              "universal",
+              "vercel"
+            ]
           },
           "first_seen": "2026-08-28T20:59:09.748Z"
         },
@@ -360,12 +558,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React-based framework with performance, scalability, and security built in.",
+            "homepage": "https://www.gatsbyjs.com",
             "id": 36040894,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T03:41:15Z",
+            "open_issues": 437,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55941
+            "stars": 55941,
+            "topics": [
+              "blog",
+              "compiler",
+              "gatsby",
+              "graphql",
+              "react",
+              "static-site-generator",
+              "web-app"
+            ]
           },
           "first_seen": "2026-08-28T20:59:09.748Z"
         },
@@ -376,12 +587,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A toolkit for React, Preact, Inferno & vanilla JS apps, React libraries and other npm modules for the web, with no configuration (until you need it)",
+            "homepage": null,
             "id": 45947467,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2025-02-15T17:20:52Z",
+            "open_issues": 168,
             "owner": "insin",
             "repo": "nwb",
-            "stars": 5535
+            "stars": 5535,
+            "topics": [
+              "babel",
+              "inferno",
+              "javascript",
+              "karma",
+              "npm-module",
+              "preact",
+              "react",
+              "react-component",
+              "toolkit",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T20:59:09.748Z"
         },
@@ -392,12 +619,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Starting a new JS app? Build, test and run advanced apps with kyt 🔥",
+            "homepage": "https://open.nytimes.com/introducing-kyt-our-web-app-configuration-toolkit-9ccddf6f6988",
             "id": 60372006,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-04T21:26:47Z",
+            "open_issues": 65,
             "owner": "nytimes",
             "repo": "kyt",
-            "stars": 1911
+            "stars": 1911,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:09.748Z"
         },
@@ -408,12 +640,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "INACTIVE - http://mzl.la/ghe-archive - DEPRECATED: See https://neutrino.js.org for alternative",
+            "homepage": "https://neutrino.js.org",
             "id": 57921811,
             "language": "JavaScript",
+            "license": "MPL-2.0",
             "last_commit": "2019-03-29T21:56:34Z",
+            "open_issues": 0,
             "owner": "mozilla",
             "repo": "neo",
-            "stars": 495
+            "stars": 495,
+            "topics": [
+              "inactive",
+              "unmaintained"
+            ]
           },
           "first_seen": "2026-08-28T20:59:09.748Z"
         },
@@ -424,12 +664,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A simpler way to compile React applications http://enclave.js.org",
+            "homepage": null,
             "id": 53015094,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-01-20T17:50:57Z",
+            "open_issues": 1,
             "owner": "eanplatter",
             "repo": "enclave",
-            "stars": 750
+            "stars": 750,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:09.748Z"
         },
@@ -440,12 +685,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":monkey: Front-end tooling in a single dependency",
+            "homepage": "http://sagui.js.org/",
             "id": 15216146,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-09-24T20:35:55Z",
+            "open_issues": 35,
             "owner": "saguijs",
             "repo": "sagui",
-            "stars": 661
+            "stars": 661,
+            "topics": [
+              "babel",
+              "flowtype",
+              "jsx",
+              "minimalist",
+              "tooling",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T20:59:09.748Z"
         },
@@ -456,12 +713,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "javascript cli: fast, configurable, easy, with hmr",
+            "homepage": null,
             "id": 43036442,
             "language": null,
+            "license": null,
             "last_commit": "2017-05-23T22:09:23Z",
+            "open_issues": 8,
             "owner": "steelbrain",
             "repo": "motion",
-            "stars": 619
+            "stars": 619,
+            "topics": [
+              "bootstrap",
+              "cli",
+              "hot-reloads",
+              "javascript",
+              "motion",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T20:59:09.748Z"
         },
@@ -472,12 +741,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create React App with server-side code support",
+            "homepage": "https://t.me/reactapp",
             "id": 58659933,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-09T15:32:36Z",
+            "open_issues": 34,
             "owner": "kriasoft",
             "repo": "react-app",
-            "stars": 612
+            "stars": 612,
+            "topics": [
+              "babel",
+              "boilerplate",
+              "create-react-app",
+              "graphql",
+              "graphql-js",
+              "isomorphic",
+              "javascript",
+              "react",
+              "react-starter",
+              "react-starter-kit",
+              "reactjs",
+              "relay",
+              "relay-modern",
+              "server-side-rendering",
+              "single-page-app",
+              "ssr",
+              "template",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T20:59:09.748Z"
         },
@@ -488,12 +781,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":rocket: A quick way to prototype and build apps with React and Babel with zero-setup.",
+            "homepage": null,
             "id": 48668276,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-09-08T10:21:27Z",
+            "open_issues": 41,
             "owner": "satya164",
             "repo": "quik",
-            "stars": 551
+            "stars": 551,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:09.748Z"
         },
@@ -504,12 +802,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐦 Modern JavaScript Development Ecosystem",
+            "homepage": null,
             "id": 46357398,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-02-16T17:18:30Z",
+            "open_issues": 23,
             "owner": "rocjs",
             "repo": "roc",
-            "stars": 426
+            "stars": 426,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:09.748Z"
         },
@@ -520,12 +823,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Universal Development Toolkit for Javascript People",
+            "homepage": "https://npmjs.com/package/dev-toolkit",
             "id": 30014276,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-03-18T21:57:02Z",
+            "open_issues": 105,
             "owner": "stoikerty",
             "repo": "dev-toolkit",
-            "stars": 133
+            "stars": 133,
+            "topics": [
+              "autoprefixer",
+              "browsersync",
+              "css-modules",
+              "react",
+              "sass",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T20:59:09.748Z"
         },
@@ -536,12 +851,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Awesome REact Cli",
+            "homepage": "http://geowarin.github.io/tarec/",
             "id": 57948987,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-05-13T07:42:05Z",
+            "open_issues": 1,
             "owner": "geowarin",
             "repo": "tarec",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:09.748Z"
         },
@@ -552,12 +872,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Frontend Playground",
+            "homepage": null,
             "id": 52630660,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-03-06T07:10:25Z",
+            "open_issues": 0,
             "owner": "d4rkr00t",
             "repo": "aik",
-            "stars": 43
+            "stars": 43,
+            "topics": [
+              "aik",
+              "frontend-playground",
+              "javascript",
+              "playground",
+              "postcss",
+              "prototyping",
+              "react",
+              "repl",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T20:59:09.748Z"
         }
@@ -576,12 +911,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Set up a modern web app by running one command.",
+                "homepage": "https://create-react-app.dev/",
                 "id": 63537249,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-02-15T01:32:11Z",
+                "open_issues": 2409,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103279
+                "stars": 103279,
+                "topics": [
+                  "build-tools",
+                  "react",
+                  "zero-configuration"
+                ]
               },
               "first_seen": "2026-08-28T20:59:09.748Z"
             },
@@ -592,12 +936,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Set up a modern web app by running one command.",
+                "homepage": "https://create-react-app.dev/",
                 "id": 63537249,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-02-15T01:32:11Z",
+                "open_issues": 2409,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103279
+                "stars": 103279,
+                "topics": [
+                  "build-tools",
+                  "react",
+                  "zero-configuration"
+                ]
               },
               "first_seen": "2026-08-28T20:59:09.748Z"
             }
@@ -611,15 +964,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:59:09.748Z",
+    "last_updated": "2026-08-29T04:35:39.400Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome list of Create React App articles / tutorials / videos and FAQ",
+      "homepage": null,
       "id": 79804720,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2020-12-09T20:03:26Z",
+      "open_issues": 5,
       "owner": "tuchk4",
       "repo": "awesome-create-react-app",
-      "stars": 1392
+      "stars": 1392,
+      "topics": [
+        "awesome",
+        "create-react-app",
+        "react"
+      ]
     },
     "original_repository_sha": "37d75c4e2c592e6119aa122c23e7fd8088a40465",
     "enhanced_repository": "enhansome/enhansome-create-react-app",
