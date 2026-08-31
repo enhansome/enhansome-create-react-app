@@ -28,8 +28,8 @@ A collection of awesome things regarding Create React App ecosystem.
 
 ## Create-React-App General Resources
 
-* [Create React App GitHub](https://github.com/facebookincubator/create-react-app) ⭐ 103,280 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15
-* [User Guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md) ⭐ 103,280 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15
+* [Create React App GitHub](https://github.com/facebookincubator/create-react-app) ⭐ 103,279 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15
+* [User Guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md) ⭐ 103,279 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15
 * [Create React App 2.0](https://reactjs.org/blog/2018/10/01/create-react-app-v2.html)
 * [Why I Love Create React App and Don't Want to Eject](https://medium.com/@valeriy.sorokobatko/why-i-love-create-react-app-e63b1be689a3)
 
@@ -100,7 +100,7 @@ A collection of awesome things regarding Create React App ecosystem.
 
 ## React Scripts Versions
 
-This is not documented yet. More info at [Maintaining a fork of react-scripts as an alternative to ejecting #682](https://github.com/facebookincubator/create-react-app/issues/682) ⭐ 103,280 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15
+This is not documented yet. More info at [Maintaining a fork of react-scripts as an alternative to ejecting #682](https://github.com/facebookincubator/create-react-app/issues/682) ⭐ 103,279 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15
 
 * [Typescript React Starter](https://github.com/Microsoft/TypeScript-React-Starter) ⚠️ Archived - CRA scripts version maintained by Microsoft's team to start apps with Typescript.
 * [React Scripts (Isomorphic)](https://github.com/firstlookmedia/react-scripts) ⭐ 216 | 🐛 10 | 🌐 JavaScript | 📅 2023-01-27 - Provides configuration for FLM's isomorphic React apps.
@@ -115,10 +115,10 @@ This is not documented yet. More info at [Maintaining a fork of react-scripts as
 * [React App Rewired](https://github.com/timarney/react-app-rewired) ⭐ 9,841 | 🐛 24 | 🌐 JavaScript | 📅 2026-08-11 - Configure the unconfigurable, override create-react-app webpack configs.
 * [Create React Scripts](https://github.com/raymondsze/create-react-scripts/tree/master/packages/create-react-scripts) ⭐ 63 | 🐛 7 | 🌐 JavaScript | 📅 2019-01-06 - Easily extend the react-scripts from create-react-app to your own version of react-scripts. Package for SSR, Less, Sass, Workbox(PWA), VendorDll are included.
 
-Alternatives from [Create React App README](https://github.com/facebookincubator/create-react-app#alternatives) ⭐ 103,280 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15:
+Alternatives from [Create React App README](https://github.com/facebookincubator/create-react-app#alternatives) ⭐ 103,279 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15:
 
-* [zeit/next.js](https://github.com/zeit/next.js) ⭐ 142,017 | 🐛 3,642 | 🌐 JavaScript | 📅 2026-08-30 - Framework for server-rendered React apps.
-* [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,944 | 🐛 437 | 🌐 JavaScript | 📅 2026-08-29 - Transform plain text into dynamic blogs and websites using React.
+* [zeit/next.js](https://github.com/zeit/next.js) ⭐ 142,041 | 🐛 3,579 | 🌐 JavaScript | 📅 2026-08-31 - Framework for server-rendered React apps.
+* [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,944 | 🐛 438 | 🌐 JavaScript | 📅 2026-08-29 - Transform plain text into dynamic blogs and websites using React.
 * [insin/nwb](https://github.com/insin/nwb) ⚠️ Archived - A toolkit for React, Preact & Inferno apps, React libraries and other npm modules for the web, with no configuration (until you need it).
 * [NYTimes/kyt](https://github.com/NYTimes/kyt) ⭐ 1,911 | 🐛 65 | 🌐 JavaScript | 📅 2026-05-04 - Drowning in Webpack configs? Try this build, test and development tool for advanced JavaScript apps.
 * [mozilla/neo](https://github.com/mozilla/neo) ⚠️ Archived - Create and build React web applications with zero initial configuration and minimal fuss.
@@ -139,17 +139,17 @@ Notable alternatives also include:
 
 ### How to Use Env Config
 
-* [Adding Custom Environment Variables](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#adding-custom-environment-variables) ⭐ 103,280 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15
+* [Adding Custom Environment Variables](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#adding-custom-environment-variables) ⭐ 103,279 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15
 
 > Your project can consume variables declared in your environment as if they were declared locally in your JS files. By default you will have NODE\_ENV defined for you, and any other environment variables starting with REACT\_APP\_. These environment variables will be defined for you on process.env. For example, having an environment variable named REACT\_APP\_SECRET\_CODE will be exposed in your JS as process.env.REACT\_APP\_SECRET\_CODE, in addition to process.env.NODE\_ENV
 
-* [Adding Development Environment Variables In `.env`](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#adding-development-environment-variables-in-env) ⭐ 103,280 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15
+* [Adding Development Environment Variables In `.env`](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#adding-development-environment-variables-in-env) ⭐ 103,279 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15
 
 > To define permanent environment variables, create a file called .env in the root of your project
 
 ### How to Use Multiple Env Configs
 
-Right now it is possible installing [dotenv](https://github.com/motdotla/dotenv) ⭐ 20,527 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-04 and updating npm scripts:
+Right now it is possible installing [dotenv](https://github.com/motdotla/dotenv) ⭐ 20,526 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-04 and updating npm scripts:
 
 ```json
 "scripts": {
@@ -158,7 +158,7 @@ Right now it is possible installing [dotenv](https://github.com/motdotla/dotenv)
 }
 ```
 
-There is the Pull Request [#1344](https://github.com/facebookincubator/create-react-app/pull/1344) ⭐ 103,280 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15 that implements [Support different env configs](https://github.com/facebookincubator/create-react-app/issues/1343) ⭐ 103,280 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15:
+There is the Pull Request [#1344](https://github.com/facebookincubator/create-react-app/pull/1344) ⭐ 103,279 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15 that implements [Support different env configs](https://github.com/facebookincubator/create-react-app/issues/1343) ⭐ 103,279 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15:
 
 Read different `.env` configs according to current command (start / test / build).
 
@@ -199,7 +199,7 @@ BROWSER=none
 
 ### Lazy Loading
 
-Original issue - [Lazy load (chunking) feature? #925](https://github.com/facebookincubator/create-react-app/issues/925) ⭐ 103,280 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15
+Original issue - [Lazy load (chunking) feature? #925](https://github.com/facebookincubator/create-react-app/issues/925) ⭐ 103,279 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15
 
 > You can use require.ensure() because we use webpack under the hood.
 > When we switch to webpack 2, you can use System.import instead.
@@ -208,7 +208,7 @@ Original issue - [Lazy load (chunking) feature? #925](https://github.com/faceboo
 
 What is the alternative for `webpack module.resolveDirectory`?
 
-Official solution: create `node_modules` at `src` directory - [src/node\_modules as official solution for absolute imports #1065](https://github.com/facebookincubator/create-react-app/issues/1065) ⭐ 103,280 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15
+Official solution: create `node_modules` at `src` directory - [src/node\_modules as official solution for absolute imports #1065](https://github.com/facebookincubator/create-react-app/issues/1065) ⭐ 103,279 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15
 
 Another way - use `NODE_PATH` env variable. It is a directory name to be resolved to the current directory as well as its ancestors, and searched for modules. It is [resolve.modules](https://webpack.js.org/configuration/resolve/#resolve-modules) for webpack. More details at node official documentation ["Loading from the global folders"](https://nodejs.org/api/modules.html#modules_loading_from_the_global_folders).
 
@@ -252,9 +252,9 @@ if (module.hot) {
 
 ### How to Use Custom Babel Presets
 
-Create React App [doesn’t support decorator syntax](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#can-i-use-decorators) ⭐ 103,280 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15 at the moment.
+Create React App [doesn’t support decorator syntax](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#can-i-use-decorators) ⭐ 103,279 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15 at the moment.
 
-There are PR [Adding support for custom babel configuration #1357](https://github.com/facebookincubator/create-react-app/pull/1357) ⭐ 103,280 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15. If PR is merged then these features will be available:
+There are PR [Adding support for custom babel configuration #1357](https://github.com/facebookincubator/create-react-app/pull/1357) ⭐ 103,279 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15. If PR is merged then these features will be available:
 
 * [Decorators](https://www.npmjs.com/package/babel-plugin-transform-decorators)
 * Features from [stage-0 preset](https://babeljs.io/docs/plugins/preset-stage-0/)
@@ -273,14 +273,14 @@ PR is closed but
 
 > * [Imagine the horror of building / maintaining an app that relies on dead syntax features five years from now.](https://twitter.com/dan_abramov/status/818627079306694658)
 
-So we do not recommend to use babel presets besides the [babel-preset-react-app](https://github.com/facebookincubator/create-react-app/tree/master/packages/babel-preset-react-app) ⭐ 103,280 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15 that is already configured at Create React App.
+So we do not recommend to use babel presets besides the [babel-preset-react-app](https://github.com/facebookincubator/create-react-app/tree/master/packages/babel-preset-react-app) ⭐ 103,279 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15 that is already configured at Create React App.
 
 ### How to Change Webpack Entry Point and Output Dir?
 
-There is the issue - [Customize build folder #1354](https://github.com/facebookincubator/create-react-app/issues/1354) ⭐ 103,280 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15.
-This is feature is very useful along with entry point customizing and I have left  [comment](https://github.com/facebookincubator/create-react-app/issues/1354#issuecomment-275647959) ⭐ 103,280 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15 about this.
+There is the issue - [Customize build folder #1354](https://github.com/facebookincubator/create-react-app/issues/1354) ⭐ 103,279 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15.
+This is feature is very useful along with entry point customizing and I have left  [comment](https://github.com/facebookincubator/create-react-app/issues/1354#issuecomment-275647959) ⭐ 103,279 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15 about this.
 
-But according to this Pull Request [Fix- react-scripts build doesn't allow for specified path #1362](https://github.com/facebookincubator/create-react-app/pull/1362#issuecomment-271284738) ⭐ 103,280 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15 we should not expect such customizations in near future.
+But according to this Pull Request [Fix- react-scripts build doesn't allow for specified path #1362](https://github.com/facebookincubator/create-react-app/pull/1362#issuecomment-271284738) ⭐ 103,279 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15 we should not expect such customizations in near future.
 
 > won’t be introducing more configuration on a case-by-case basis. We might add support for a configuration file at some point, but not now.
 
@@ -327,10 +327,10 @@ webpack(config).run(function(err, stats) {
 
 Also note that this is just webpack config extending, not `react-scripts build`. There is not beautiful console logs, comparison of the build size and other `react-scitpts build` command features.
 
-Such approach (workaround) also helps to resolve problems when need to build/pubish a single component. There is the related issue - [How to publish components without ejecting #796](https://github.com/facebookincubator/create-react-app/issues/796) ⭐ 103,280 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15. Just override webpack entry point and output.
+Such approach (workaround) also helps to resolve problems when need to build/pubish a single component. There is the related issue - [How to publish components without ejecting #796](https://github.com/facebookincubator/create-react-app/issues/796) ⭐ 103,279 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15. Just override webpack entry point and output.
 
 Always remember that using not usual loaders (like yaml, markdown, dsv loaders etc.), additional plugins and features from drafts and proposals makes your application more complex, maybe with dead syntax features and it is become impossible to migrate from current webpack configuration.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
