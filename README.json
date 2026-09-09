@@ -473,7 +473,7 @@
             "open_issues": 24,
             "owner": "timarney",
             "repo": "react-app-rewired",
-            "stars": 9841,
+            "stars": 9840,
             "topics": [
               "config",
               "create-react-app",
@@ -527,11 +527,11 @@
             "id": 70107786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-08T13:50:36Z",
-            "open_issues": 3301,
+            "last_commit": "2026-09-09T13:39:20Z",
+            "open_issues": 3311,
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 142219,
+            "stars": 142230,
             "topics": [
               "blog",
               "browser",
@@ -563,7 +563,7 @@
             "id": 36040894,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-08T12:13:16Z",
+            "last_commit": "2026-09-09T02:51:06Z",
             "open_issues": 443,
             "owner": "gatsbyjs",
             "repo": "gatsby",
@@ -593,10 +593,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2025-02-15T17:20:52Z",
-            "open_issues": 168,
+            "open_issues": 167,
             "owner": "insin",
             "repo": "nwb",
-            "stars": 5533,
+            "stars": 5532,
             "topics": [
               "babel",
               "inferno",
@@ -649,7 +649,7 @@
             "open_issues": 0,
             "owner": "mozilla",
             "repo": "neo",
-            "stars": 495,
+            "stars": 493,
             "topics": [
               "inactive",
               "unmaintained"
@@ -673,7 +673,7 @@
             "open_issues": 1,
             "owner": "eanplatter",
             "repo": "enclave",
-            "stars": 750,
+            "stars": 747,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:09.748Z"
@@ -790,7 +790,7 @@
             "open_issues": 41,
             "owner": "satya164",
             "repo": "quik",
-            "stars": 550,
+            "stars": 549,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:09.748Z"
@@ -811,7 +811,7 @@
             "open_issues": 23,
             "owner": "rocjs",
             "repo": "roc",
-            "stars": 426,
+            "stars": 424,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:09.748Z"
@@ -964,7 +964,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T13:52:05.385Z",
+    "last_updated": "2026-09-09T13:54:14.169Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Create React App articles / tutorials / videos and FAQ",

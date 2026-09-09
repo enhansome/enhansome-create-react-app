@@ -112,13 +112,13 @@ This is not documented yet. More info at [Maintaining a fork of react-scripts as
 
 ## Alternatives
 
-* [React App Rewired](https://github.com/timarney/react-app-rewired) ⭐ 9,841 | 🐛 24 | 🌐 JavaScript | 📅 2026-08-11 - Configure the unconfigurable, override create-react-app webpack configs.
+* [React App Rewired](https://github.com/timarney/react-app-rewired) ⭐ 9,840 | 🐛 24 | 🌐 JavaScript | 📅 2026-08-11 - Configure the unconfigurable, override create-react-app webpack configs.
 * [Create React Scripts](https://github.com/raymondsze/create-react-scripts/tree/master/packages/create-react-scripts) ⭐ 63 | 🐛 7 | 🌐 JavaScript | 📅 2019-01-06 - Easily extend the react-scripts from create-react-app to your own version of react-scripts. Package for SSR, Less, Sass, Workbox(PWA), VendorDll are included.
 
 Alternatives from [Create React App README](https://github.com/facebookincubator/create-react-app#alternatives) ⭐ 103,262 | 🐛 2,411 | 🌐 JavaScript | 📅 2025-02-15:
 
-* [zeit/next.js](https://github.com/zeit/next.js) ⭐ 142,219 | 🐛 3,301 | 🌐 JavaScript | 📅 2026-09-08 - Framework for server-rendered React apps.
-* [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,940 | 🐛 443 | 🌐 JavaScript | 📅 2026-09-08 - Transform plain text into dynamic blogs and websites using React.
+* [zeit/next.js](https://github.com/zeit/next.js) ⭐ 142,230 | 🐛 3,311 | 🌐 JavaScript | 📅 2026-09-09 - Framework for server-rendered React apps.
+* [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,940 | 🐛 443 | 🌐 JavaScript | 📅 2026-09-09 - Transform plain text into dynamic blogs and websites using React.
 * [insin/nwb](https://github.com/insin/nwb) ⚠️ Archived - A toolkit for React, Preact & Inferno apps, React libraries and other npm modules for the web, with no configuration (until you need it).
 * [NYTimes/kyt](https://github.com/NYTimes/kyt) ⭐ 1,911 | 🐛 65 | 🌐 JavaScript | 📅 2026-05-04 - Drowning in Webpack configs? Try this build, test and development tool for advanced JavaScript apps.
 * [mozilla/neo](https://github.com/mozilla/neo) ⚠️ Archived - Create and build React web applications with zero initial configuration and minimal fuss.
@@ -129,8 +129,8 @@ Notable alternatives also include:
 * [sagui](https://github.com/saguijs/sagui) ⚠️ Archived - Front-end tooling in a single dependency.
 * [motion](https://github.com/motion/motion) ⚠️ Archived - A simple CLI for running React projects.
 * [react-app](https://github.com/kriasoft/react-app) ⭐ 612 | 🐛 34 | 🌐 JavaScript | 📅 2022-12-09 - CLI tools and templates for authoring React applications with a single dev dependency and no configurations.
-* [quik](https://github.com/satya164/quik) ⭐ 550 | 🐛 41 | 🌐 JavaScript | 📅 2018-09-08- A quick way to prototype and build apps with React and Babel with zero-setup.
-* [roc](https://github.com/rocjs/roc) ⭐ 426 | 🐛 23 | 🌐 JavaScript | 📅 2024-02-16- Modern JavaScript Development Ecosystem.
+* [quik](https://github.com/satya164/quik) ⭐ 549 | 🐛 41 | 🌐 JavaScript | 📅 2018-09-08- A quick way to prototype and build apps with React and Babel with zero-setup.
+* [roc](https://github.com/rocjs/roc) ⭐ 424 | 🐛 23 | 🌐 JavaScript | 📅 2024-02-16- Modern JavaScript Development Ecosystem.
 * [dev-toolkit](https://github.com/stoikerty/dev-toolkit) ⭐ 133 | 🐛 105 | 🌐 JavaScript | 📅 2025-03-18 - Development Toolkit for React Veterans.
 * [tarec](https://github.com/geowarin/tarec) ⭐ 54 | 🐛 1 | 🌐 JavaScript | 📅 2019-05-13 - The Awesome React Cli.
 * [aik](https://github.com/d4rkr00t/aik) ⭐ 43 | 🐛 0 | 🌐 JavaScript | 📅 2018-03-06- Frontend Playground.
@@ -149,7 +149,7 @@ Notable alternatives also include:
 
 ### How to Use Multiple Env Configs
 
-Right now it is possible installing [dotenv](https://github.com/motdotla/dotenv) ⭐ 20,532 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-04 and updating npm scripts:
+Right now it is possible installing [dotenv](https://github.com/motdotla/dotenv) ⭐ 20,531 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-04 and updating npm scripts:
 
 ```json
 "scripts": {
@@ -333,4 +333,4 @@ Always remember that using not usual loaders (like yaml, markdown, dsv loaders e
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
