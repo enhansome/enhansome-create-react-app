@@ -75,7 +75,7 @@
             "open_issues": 12,
             "owner": "antonybudianto",
             "repo": "cra-universal",
-            "stars": 422,
+            "stars": 423,
             "topics": [
               "cli",
               "create-react-app",
@@ -527,11 +527,11 @@
             "id": 70107786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-21T15:31:43Z",
-            "open_issues": 3466,
+            "last_commit": "2026-09-22T14:10:31Z",
+            "open_issues": 3472,
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 142387,
+            "stars": 142395,
             "topics": [
               "blog",
               "browser",
@@ -567,7 +567,7 @@
             "open_issues": 450,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55938,
+            "stars": 55939,
             "topics": [
               "blog",
               "compiler",
@@ -964,7 +964,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T16:00:56.272Z",
+    "last_updated": "2026-09-22T14:10:48.942Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Create React App articles / tutorials / videos and FAQ",
@@ -976,7 +976,7 @@
       "open_issues": 5,
       "owner": "tuchk4",
       "repo": "awesome-create-react-app",
-      "stars": 1392,
+      "stars": 1393,
       "topics": [
         "awesome",
         "create-react-app",

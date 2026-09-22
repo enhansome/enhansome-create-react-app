@@ -35,7 +35,7 @@ A collection of awesome things regarding Create React App ecosystem.
 
 ## Tools
 
-* [CRA Universal CLI](https://github.com/antonybudianto/cra-universal) ⭐ 422 | 🐛 12 | 🌐 JavaScript | 📅 2022-09-26 - CLI for SSR Create React App, without eject
+* [CRA Universal CLI](https://github.com/antonybudianto/cra-universal) ⭐ 423 | 🐛 12 | 🌐 JavaScript | 📅 2022-09-26 - CLI for SSR Create React App, without eject
 * [CRA Generate: Scaffold a React Component](https://github.com/rthor/cra-generate) ⭐ 81 | 🐛 7 | 🌐 JavaScript | 📅 2018-10-13 - Scaffold a React component.
 * [CRAFT: Create React App From Template](https://medium.com/@stoyanstefanov/craft-create-react-app-from-template-7fd3383d0954) - Create-React-App from the template
 
@@ -117,8 +117,8 @@ This is not documented yet. More info at [Maintaining a fork of react-scripts as
 
 Alternatives from [Create React App README](https://github.com/facebookincubator/create-react-app#alternatives) ⭐ 103,254 | 🐛 2,411 | 🌐 JavaScript | 📅 2025-02-15:
 
-* [zeit/next.js](https://github.com/zeit/next.js) ⭐ 142,387 | 🐛 3,466 | 🌐 JavaScript | 📅 2026-09-21 - Framework for server-rendered React apps.
-* [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,938 | 🐛 450 | 🌐 JavaScript | 📅 2026-09-19 - Transform plain text into dynamic blogs and websites using React.
+* [zeit/next.js](https://github.com/zeit/next.js) ⭐ 142,395 | 🐛 3,472 | 🌐 JavaScript | 📅 2026-09-22 - Framework for server-rendered React apps.
+* [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,939 | 🐛 450 | 🌐 JavaScript | 📅 2026-09-19 - Transform plain text into dynamic blogs and websites using React.
 * [insin/nwb](https://github.com/insin/nwb) ⚠️ Archived - A toolkit for React, Preact & Inferno apps, React libraries and other npm modules for the web, with no configuration (until you need it).
 * [NYTimes/kyt](https://github.com/NYTimes/kyt) ⭐ 1,912 | 🐛 65 | 🌐 JavaScript | 📅 2026-05-04 - Drowning in Webpack configs? Try this build, test and development tool for advanced JavaScript apps.
 * [mozilla/neo](https://github.com/mozilla/neo) ⚠️ Archived - Create and build React web applications with zero initial configuration and minimal fuss.
@@ -149,7 +149,7 @@ Notable alternatives also include:
 
 ### How to Use Multiple Env Configs
 
-Right now it is possible installing [dotenv](https://github.com/motdotla/dotenv) ⭐ 20,538 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-21 and updating npm scripts:
+Right now it is possible installing [dotenv](https://github.com/motdotla/dotenv) ⭐ 20,540 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-22 and updating npm scripts:
 
 ```json
 "scripts": {
@@ -333,4 +333,4 @@ Always remember that using not usual loaders (like yaml, markdown, dsv loaders e
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
