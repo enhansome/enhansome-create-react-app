@@ -136,7 +136,7 @@
             "open_issues": 6,
             "owner": "jeffposnick",
             "repo": "create-react-pwa",
-            "stars": 1266,
+            "stars": 1265,
             "topics": [
               "create-react-app",
               "offline",
@@ -527,11 +527,11 @@
             "id": 70107786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-22T14:10:31Z",
-            "open_issues": 3472,
+            "last_commit": "2026-09-23T14:12:39Z",
+            "open_issues": 3462,
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 142395,
+            "stars": 142408,
             "topics": [
               "blog",
               "browser",
@@ -567,7 +567,7 @@
             "open_issues": 450,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55939,
+            "stars": 55942,
             "topics": [
               "blog",
               "compiler",
@@ -964,7 +964,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T14:10:48.942Z",
+    "last_updated": "2026-09-23T14:25:39.910Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Create React App articles / tutorials / videos and FAQ",

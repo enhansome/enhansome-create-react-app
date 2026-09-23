@@ -41,7 +41,7 @@ A collection of awesome things regarding Create React App ecosystem.
 
 ## CRAFT Templates
 
-* [CRA + Progressive Web App goodness](https://github.com/jeffposnick/create-react-pwa/) ⭐ 1,266 | 🐛 6 | 🌐 HTML | 📅 2020-11-02 - Progressive Web App tempalte.
+* [CRA + Progressive Web App goodness](https://github.com/jeffposnick/create-react-pwa/) ⭐ 1,265 | 🐛 6 | 🌐 HTML | 📅 2020-11-02 - Progressive Web App tempalte.
 * [An Almost Static Stack. CRA + react-snapshot](https://github.com/superhighfives/an-almost-static-stack) ⭐ 267 | 🐛 19 | 🌐 JavaScript | 📅 2022-12-06 - Bridge the gap between static sites and single page apps.
 * [CRA + Redux](https://github.com/tuchk4/craft-redux) ⭐ 25 | 🐛 4 | 🌐 JavaScript | 📅 2017-07-24 - Create React App Template with Redux and Router
 * [File API Input Layer](https://github.com/stoyan/fail) ⭐ 13 | 🐛 0 | 🌐 JavaScript | 📅 2017-01-30 - File Upload Tempalte
@@ -117,8 +117,8 @@ This is not documented yet. More info at [Maintaining a fork of react-scripts as
 
 Alternatives from [Create React App README](https://github.com/facebookincubator/create-react-app#alternatives) ⭐ 103,254 | 🐛 2,411 | 🌐 JavaScript | 📅 2025-02-15:
 
-* [zeit/next.js](https://github.com/zeit/next.js) ⭐ 142,395 | 🐛 3,472 | 🌐 JavaScript | 📅 2026-09-22 - Framework for server-rendered React apps.
-* [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,939 | 🐛 450 | 🌐 JavaScript | 📅 2026-09-19 - Transform plain text into dynamic blogs and websites using React.
+* [zeit/next.js](https://github.com/zeit/next.js) ⭐ 142,408 | 🐛 3,462 | 🌐 JavaScript | 📅 2026-09-23 - Framework for server-rendered React apps.
+* [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,942 | 🐛 450 | 🌐 JavaScript | 📅 2026-09-19 - Transform plain text into dynamic blogs and websites using React.
 * [insin/nwb](https://github.com/insin/nwb) ⚠️ Archived - A toolkit for React, Preact & Inferno apps, React libraries and other npm modules for the web, with no configuration (until you need it).
 * [NYTimes/kyt](https://github.com/NYTimes/kyt) ⭐ 1,912 | 🐛 65 | 🌐 JavaScript | 📅 2026-05-04 - Drowning in Webpack configs? Try this build, test and development tool for advanced JavaScript apps.
 * [mozilla/neo](https://github.com/mozilla/neo) ⚠️ Archived - Create and build React web applications with zero initial configuration and minimal fuss.
@@ -149,7 +149,7 @@ Notable alternatives also include:
 
 ### How to Use Multiple Env Configs
 
-Right now it is possible installing [dotenv](https://github.com/motdotla/dotenv) ⭐ 20,540 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-22 and updating npm scripts:
+Right now it is possible installing [dotenv](https://github.com/motdotla/dotenv) ⭐ 20,542 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-23 and updating npm scripts:
 
 ```json
 "scripts": {
@@ -333,4 +333,4 @@ Always remember that using not usual loaders (like yaml, markdown, dsv loaders e
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
