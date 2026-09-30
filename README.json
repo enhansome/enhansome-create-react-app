@@ -19,7 +19,7 @@
             "open_issues": 2411,
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103251,
+            "stars": 103247,
             "topics": [
               "build-tools",
               "react",
@@ -44,7 +44,7 @@
             "open_issues": 2411,
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103251,
+            "stars": 103247,
             "topics": [
               "build-tools",
               "react",
@@ -527,11 +527,11 @@
             "id": 70107786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T16:06:31Z",
-            "open_issues": 3534,
+            "last_commit": "2026-09-30T15:58:27Z",
+            "open_issues": 3535,
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 142892,
+            "stars": 142921,
             "topics": [
               "blog",
               "browser",
@@ -567,7 +567,7 @@
             "open_issues": 451,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55945,
+            "stars": 55941,
             "topics": [
               "blog",
               "compiler",
@@ -920,7 +920,7 @@
                 "open_issues": 2411,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103251,
+                "stars": 103247,
                 "topics": [
                   "build-tools",
                   "react",
@@ -945,7 +945,7 @@
                 "open_issues": 2411,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103251,
+                "stars": 103247,
                 "topics": [
                   "build-tools",
                   "react",
@@ -964,7 +964,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T16:06:45.072Z",
+    "last_updated": "2026-09-30T16:05:10.404Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Create React App articles / tutorials / videos and FAQ",
