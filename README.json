@@ -527,11 +527,11 @@
             "id": 70107786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T16:39:42Z",
-            "open_issues": 3544,
+            "last_commit": "2026-10-02T15:52:02Z",
+            "open_issues": 3540,
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 142969,
+            "stars": 142991,
             "topics": [
               "blog",
               "browser",
@@ -563,7 +563,7 @@
             "id": 36040894,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T13:13:46Z",
+            "last_commit": "2026-10-01T19:43:05Z",
             "open_issues": 451,
             "owner": "gatsbyjs",
             "repo": "gatsby",
@@ -964,7 +964,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T16:41:28.247Z",
+    "last_updated": "2026-10-02T15:57:49.348Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Create React App articles / tutorials / videos and FAQ",

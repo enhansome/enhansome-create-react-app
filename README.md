@@ -117,7 +117,7 @@ This is not documented yet. More info at [Maintaining a fork of react-scripts as
 
 Alternatives from [Create React App README](https://github.com/facebookincubator/create-react-app#alternatives) ⭐ 103,232 | 🐛 2,410 | 🌐 JavaScript | 📅 2025-02-15:
 
-* [zeit/next.js](https://github.com/zeit/next.js) ⭐ 142,969 | 🐛 3,544 | 🌐 JavaScript | 📅 2026-10-01 - Framework for server-rendered React apps.
+* [zeit/next.js](https://github.com/zeit/next.js) ⭐ 142,991 | 🐛 3,540 | 🌐 JavaScript | 📅 2026-10-02 - Framework for server-rendered React apps.
 * [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,941 | 🐛 451 | 🌐 JavaScript | 📅 2026-10-01 - Transform plain text into dynamic blogs and websites using React.
 * [insin/nwb](https://github.com/insin/nwb) ⚠️ Archived - A toolkit for React, Preact & Inferno apps, React libraries and other npm modules for the web, with no configuration (until you need it).
 * [NYTimes/kyt](https://github.com/NYTimes/kyt) ⭐ 1,912 | 🐛 65 | 🌐 JavaScript | 📅 2026-05-04 - Drowning in Webpack configs? Try this build, test and development tool for advanced JavaScript apps.
@@ -149,7 +149,7 @@ Notable alternatives also include:
 
 ### How to Use Multiple Env Configs
 
-Right now it is possible installing [dotenv](https://github.com/motdotla/dotenv) ⭐ 20,542 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-30 and updating npm scripts:
+Right now it is possible installing [dotenv](https://github.com/motdotla/dotenv) ⭐ 20,543 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-30 and updating npm scripts:
 
 ```json
 "scripts": {
@@ -333,4 +333,4 @@ Always remember that using not usual loaders (like yaml, markdown, dsv loaders e
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
