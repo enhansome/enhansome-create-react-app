@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Create React App GitHub",
-          "description": null,
+          "description": "react/create-react-app",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 2410,
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103232,
+            "stars": 103231,
             "topics": [
               "build-tools",
               "react",
@@ -31,7 +31,7 @@
         {
           "node_type": "item",
           "title": "User Guide",
-          "description": null,
+          "description": "react/create-react-app",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -44,7 +44,7 @@
             "open_issues": 2410,
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103232,
+            "stars": 103231,
             "topics": [
               "build-tools",
               "react",
@@ -253,7 +253,7 @@
         {
           "node_type": "item",
           "title": "Create React App Buildpack",
-          "description": null,
+          "description": "mars/create-react-app-buildpack",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -281,7 +281,7 @@
         {
           "node_type": "item",
           "title": "Creare React App - now.sh",
-          "description": null,
+          "description": "xkawi/create-react-app-now",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -527,11 +527,11 @@
             "id": 70107786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T15:52:02Z",
-            "open_issues": 3540,
+            "last_commit": "2026-10-03T04:34:48Z",
+            "open_issues": 3530,
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 142991,
+            "stars": 143017,
             "topics": [
               "blog",
               "browser",
@@ -907,7 +907,7 @@
             {
               "node_type": "item",
               "title": "Adding Custom Environment Variables",
-              "description": null,
+              "description": "react/create-react-app",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -920,7 +920,7 @@
                 "open_issues": 2410,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103232,
+                "stars": 103231,
                 "topics": [
                   "build-tools",
                   "react",
@@ -932,7 +932,7 @@
             {
               "node_type": "item",
               "title": "Adding Development Environment Variables In",
-              "description": null,
+              "description": "react/create-react-app",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -945,7 +945,7 @@
                 "open_issues": 2410,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103232,
+                "stars": 103231,
                 "topics": [
                   "build-tools",
                   "react",
@@ -964,7 +964,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:57:49.348Z",
+    "last_updated": "2026-10-03T04:38:10.419Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Create React App articles / tutorials / videos and FAQ",
