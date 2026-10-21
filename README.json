@@ -19,7 +19,7 @@
             "open_issues": 2409,
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103231,
+            "stars": 103237,
             "topics": [
               "build-tools",
               "react",
@@ -44,7 +44,7 @@
             "open_issues": 2409,
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103231,
+            "stars": 103237,
             "topics": [
               "build-tools",
               "react",
@@ -527,11 +527,11 @@
             "id": 70107786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-20T14:05:16Z",
-            "open_issues": 3719,
+            "last_commit": "2026-10-21T14:38:01Z",
+            "open_issues": 3724,
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 143110,
+            "stars": 143111,
             "topics": [
               "blog",
               "browser",
@@ -920,7 +920,7 @@
                 "open_issues": 2409,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103231,
+                "stars": 103237,
                 "topics": [
                   "build-tools",
                   "react",
@@ -945,7 +945,7 @@
                 "open_issues": 2409,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103231,
+                "stars": 103237,
                 "topics": [
                   "build-tools",
                   "react",
@@ -964,7 +964,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T14:28:32.459Z",
+    "last_updated": "2026-10-21T14:39:40.165Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Create React App articles / tutorials / videos and FAQ",
