@@ -117,10 +117,10 @@ This is not documented yet. More info at [Maintaining a fork of react-scripts as
 
 Alternatives from [Create React App README](https://github.com/facebookincubator/create-react-app#alternatives) ⭐ 103,236 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15:
 
-* [zeit/next.js](https://github.com/zeit/next.js) ⭐ 143,182 | 🐛 3,740 | 🌐 JavaScript | 📅 2026-10-28 - Framework for server-rendered React apps.
-* [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,923 | 🐛 458 | 🌐 JavaScript | 📅 2026-10-20 - Transform plain text into dynamic blogs and websites using React.
+* [zeit/next.js](https://github.com/zeit/next.js) ⭐ 143,193 | 🐛 3,755 | 🌐 JavaScript | 📅 2026-10-29 - Framework for server-rendered React apps.
+* [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,921 | 🐛 459 | 🌐 JavaScript | 📅 2026-10-20 - Transform plain text into dynamic blogs and websites using React.
 * [insin/nwb](https://github.com/insin/nwb) ⚠️ Archived - A toolkit for React, Preact & Inferno apps, React libraries and other npm modules for the web, with no configuration (until you need it).
-* [NYTimes/kyt](https://github.com/NYTimes/kyt) ⭐ 1,911 | 🐛 65 | 🌐 JavaScript | 📅 2026-05-04 - Drowning in Webpack configs? Try this build, test and development tool for advanced JavaScript apps.
+* [NYTimes/kyt](https://github.com/NYTimes/kyt) ⭐ 1,911 | 🐛 64 | 🌐 JavaScript | 📅 2026-05-04 - Drowning in Webpack configs? Try this build, test and development tool for advanced JavaScript apps.
 * [mozilla/neo](https://github.com/mozilla/neo) ⚠️ Archived - Create and build React web applications with zero initial configuration and minimal fuss.
 
 Notable alternatives also include:
@@ -333,4 +333,4 @@ Always remember that using not usual loaders (like yaml, markdown, dsv loaders e
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._

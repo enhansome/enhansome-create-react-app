@@ -527,11 +527,11 @@
             "id": 70107786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-28T16:14:07Z",
-            "open_issues": 3740,
+            "last_commit": "2026-10-29T16:19:26Z",
+            "open_issues": 3755,
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 143182,
+            "stars": 143193,
             "topics": [
               "blog",
               "browser",
@@ -564,10 +564,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-20T11:36:56Z",
-            "open_issues": 458,
+            "open_issues": 459,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55923,
+            "stars": 55921,
             "topics": [
               "blog",
               "compiler",
@@ -625,7 +625,7 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-05-04T21:26:47Z",
-            "open_issues": 65,
+            "open_issues": 64,
             "owner": "nytimes",
             "repo": "kyt",
             "stars": 1911,
@@ -673,7 +673,7 @@
             "open_issues": 1,
             "owner": "eanplatter",
             "repo": "enclave",
-            "stars": 748,
+            "stars": 747,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:09.748Z"
@@ -964,7 +964,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T16:16:21.995Z",
+    "last_updated": "2026-10-29T16:24:03.628Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Create React App articles / tutorials / videos and FAQ",
