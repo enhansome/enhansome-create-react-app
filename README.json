@@ -19,7 +19,7 @@
             "open_issues": 2409,
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103241,
+            "stars": 103239,
             "topics": [
               "build-tools",
               "react",
@@ -44,7 +44,7 @@
             "open_issues": 2409,
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103241,
+            "stars": 103239,
             "topics": [
               "build-tools",
               "react",
@@ -155,13 +155,13 @@
           "description": "Bridge the gap between static sites and single page apps.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "An example of using create-react-app to bridge the gap between static sites and single page apps",
             "homepage": "https://yadg.surge.sh",
             "id": 80747485,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2022-12-06T22:16:44Z",
+            "last_commit": "2026-11-02T23:52:54Z",
             "open_issues": 19,
             "owner": "superhighfives",
             "repo": "an-almost-static-stack",
@@ -326,7 +326,7 @@
             "open_issues": 196,
             "owner": "microsoft",
             "repo": "TypeScript-React-Starter",
-            "stars": 11014,
+            "stars": 11013,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:09.748Z"
@@ -527,11 +527,11 @@
             "id": 70107786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-02T19:23:37Z",
-            "open_issues": 3785,
+            "last_commit": "2026-11-03T17:15:03Z",
+            "open_issues": 3787,
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 143473,
+            "stars": 143245,
             "topics": [
               "blog",
               "browser",
@@ -567,7 +567,7 @@
             "open_issues": 460,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55921,
+            "stars": 55919,
             "topics": [
               "blog",
               "compiler",
@@ -920,7 +920,7 @@
                 "open_issues": 2409,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103241,
+                "stars": 103239,
                 "topics": [
                   "build-tools",
                   "react",
@@ -945,7 +945,7 @@
                 "open_issues": 2409,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103241,
+                "stars": 103239,
                 "topics": [
                   "build-tools",
                   "react",
@@ -964,7 +964,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T19:46:27.669Z",
+    "last_updated": "2026-11-03T17:19:02.419Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Create React App articles / tutorials / videos and FAQ",
