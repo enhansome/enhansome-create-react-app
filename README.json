@@ -19,7 +19,7 @@
             "open_issues": 2408,
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103228,
+            "stars": 103224,
             "topics": [
               "build-tools",
               "react",
@@ -44,7 +44,7 @@
             "open_issues": 2408,
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103228,
+            "stars": 103224,
             "topics": [
               "build-tools",
               "react",
@@ -323,10 +323,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2019-08-23T00:06:50Z",
-            "open_issues": 195,
+            "open_issues": 194,
             "owner": "microsoft",
             "repo": "TypeScript-React-Starter",
-            "stars": 11015,
+            "stars": 11014,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:09.748Z"
@@ -473,7 +473,7 @@
             "open_issues": 25,
             "owner": "timarney",
             "repo": "react-app-rewired",
-            "stars": 9837,
+            "stars": 9836,
             "topics": [
               "config",
               "create-react-app",
@@ -527,11 +527,11 @@
             "id": 70107786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-13T16:43:35Z",
-            "open_issues": 3971,
+            "last_commit": "2026-11-14T15:31:37Z",
+            "open_issues": 3974,
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 143503,
+            "stars": 143513,
             "topics": [
               "blog",
               "browser",
@@ -567,7 +567,7 @@
             "open_issues": 461,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55914,
+            "stars": 55915,
             "topics": [
               "blog",
               "compiler",
@@ -596,7 +596,7 @@
             "open_issues": 168,
             "owner": "insin",
             "repo": "nwb",
-            "stars": 5525,
+            "stars": 5524,
             "topics": [
               "babel",
               "inferno",
@@ -628,7 +628,7 @@
             "open_issues": 64,
             "owner": "nytimes",
             "repo": "kyt",
-            "stars": 1910,
+            "stars": 1909,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:09.748Z"
@@ -920,7 +920,7 @@
                 "open_issues": 2408,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103228,
+                "stars": 103224,
                 "topics": [
                   "build-tools",
                   "react",
@@ -945,7 +945,7 @@
                 "open_issues": 2408,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103228,
+                "stars": 103224,
                 "topics": [
                   "build-tools",
                   "react",
@@ -964,7 +964,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T17:22:17.752Z",
+    "last_updated": "2026-11-14T16:05:42.547Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Create React App articles / tutorials / videos and FAQ",
