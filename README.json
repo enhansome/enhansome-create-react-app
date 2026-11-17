@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2025-02-15T01:32:11Z",
-            "open_issues": 2408,
+            "open_issues": 2407,
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103230,
+            "stars": 103228,
             "topics": [
               "build-tools",
               "react",
@@ -41,10 +41,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2025-02-15T01:32:11Z",
-            "open_issues": 2408,
+            "open_issues": 2407,
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103230,
+            "stars": 103228,
             "topics": [
               "build-tools",
               "react",
@@ -326,7 +326,7 @@
             "open_issues": 194,
             "owner": "microsoft",
             "repo": "TypeScript-React-Starter",
-            "stars": 11014,
+            "stars": 11013,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:09.748Z"
@@ -527,11 +527,11 @@
             "id": 70107786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-16T19:45:19Z",
-            "open_issues": 4005,
+            "last_commit": "2026-11-17T18:38:30Z",
+            "open_issues": 4017,
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 143625,
+            "stars": 143691,
             "topics": [
               "blog",
               "browser",
@@ -563,11 +563,11 @@
             "id": 36040894,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-11T13:06:01Z",
+            "last_commit": "2026-11-17T00:03:53Z",
             "open_issues": 463,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55916,
+            "stars": 55914,
             "topics": [
               "blog",
               "compiler",
@@ -917,10 +917,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2025-02-15T01:32:11Z",
-                "open_issues": 2408,
+                "open_issues": 2407,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103230,
+                "stars": 103228,
                 "topics": [
                   "build-tools",
                   "react",
@@ -942,10 +942,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2025-02-15T01:32:11Z",
-                "open_issues": 2408,
+                "open_issues": 2407,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103230,
+                "stars": 103228,
                 "topics": [
                   "build-tools",
                   "react",
@@ -964,7 +964,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T19:51:00.927Z",
+    "last_updated": "2026-11-17T18:44:43.990Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Create React App articles / tutorials / videos and FAQ",
