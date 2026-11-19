@@ -19,7 +19,7 @@
             "open_issues": 2407,
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103226,
+            "stars": 103221,
             "topics": [
               "build-tools",
               "react",
@@ -44,7 +44,7 @@
             "open_issues": 2407,
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103226,
+            "stars": 103221,
             "topics": [
               "build-tools",
               "react",
@@ -326,7 +326,7 @@
             "open_issues": 194,
             "owner": "microsoft",
             "repo": "TypeScript-React-Starter",
-            "stars": 11014,
+            "stars": 11013,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:09.748Z"
@@ -463,14 +463,14 @@
           "description": "Configure the unconfigurable, override create-react-app webpack configs.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "Override create-react-app webpack configs without ejecting",
             "homepage": null,
             "id": 65231883,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T08:24:28Z",
-            "open_issues": 25,
+            "last_commit": "2026-11-19T12:35:50Z",
+            "open_issues": 18,
             "owner": "timarney",
             "repo": "react-app-rewired",
             "stars": 9835,
@@ -527,11 +527,11 @@
             "id": 70107786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-18T18:22:12Z",
-            "open_issues": 4037,
+            "last_commit": "2026-11-19T18:28:37Z",
+            "open_issues": 4057,
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 143749,
+            "stars": 143588,
             "topics": [
               "blog",
               "browser",
@@ -567,7 +567,7 @@
             "open_issues": 463,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55915,
+            "stars": 55913,
             "topics": [
               "blog",
               "compiler",
@@ -920,7 +920,7 @@
                 "open_issues": 2407,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103226,
+                "stars": 103221,
                 "topics": [
                   "build-tools",
                   "react",
@@ -945,7 +945,7 @@
                 "open_issues": 2407,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103226,
+                "stars": 103221,
                 "topics": [
                   "build-tools",
                   "react",
@@ -964,7 +964,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T18:23:14.927Z",
+    "last_updated": "2026-11-19T18:39:29.317Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Create React App articles / tutorials / videos and FAQ",
