@@ -19,7 +19,7 @@
             "open_issues": 2407,
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103223,
+            "stars": 103222,
             "topics": [
               "build-tools",
               "react",
@@ -44,7 +44,7 @@
             "open_issues": 2407,
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103223,
+            "stars": 103222,
             "topics": [
               "build-tools",
               "react",
@@ -527,8 +527,8 @@
             "id": 70107786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-20T17:53:49Z",
-            "open_issues": 4090,
+            "last_commit": "2026-11-21T15:41:15Z",
+            "open_issues": 4112,
             "owner": "vercel",
             "repo": "next.js",
             "stars": 143630,
@@ -563,11 +563,11 @@
             "id": 36040894,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-17T00:03:53Z",
+            "last_commit": "2026-11-20T21:42:34Z",
             "open_issues": 462,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55912,
+            "stars": 55914,
             "topics": [
               "blog",
               "compiler",
@@ -920,7 +920,7 @@
                 "open_issues": 2407,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103223,
+                "stars": 103222,
                 "topics": [
                   "build-tools",
                   "react",
@@ -945,7 +945,7 @@
                 "open_issues": 2407,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103223,
+                "stars": 103222,
                 "topics": [
                   "build-tools",
                   "react",
@@ -964,7 +964,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T17:59:53.053Z",
+    "last_updated": "2026-11-21T16:56:25.085Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Create React App articles / tutorials / videos and FAQ",
